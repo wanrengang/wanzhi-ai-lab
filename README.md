@@ -6,7 +6,7 @@
 
 专注 AI 技术实战 | AI前沿动态与趋势  | 知识管理
 
-[📖 **公众号**](assets/images/logo.jpg) | [💻 **GitHub**](https://github.com/wanrengang/wanzhi-ai-lab) | [💬 **加群交流](assets/images/logo.jpg)
+[📖 **公众号**](assets/images/logo.jpg) | [💻 **GitHub**](https://github.com/wanrengang/wanzhi-ai-lab) | [💬 加群交流](assets/images/logo.jpg)
 
 [![公众号](https://img.shields.io/badge/公众号-万智创界-red)](#-关注公众号)
 [![GitHub stars](https://img.shields.io/github/stars/wanrengang/wanzhi-ai-lab?style=social)](https://github.com/wanrengang/wanzhi-ai-lb/stargazers)
@@ -66,27 +66,6 @@
 
 
 ---
-
-## 🎓 学习路线
-
-### 零基础 → 进阶 → 专业
-
-```
-Month 1: 🟢 L1 零基础
-├── 理解 AI 概念
-├── 学会基础工具
-└── 应用到工作
-
-Month 2-3: 🟡 L2 进阶实战
-├── 学习 Python
-├── 跟着项目做
-└── 理解技术原理
-
-Month 4+: 🔴 L3 专业深度
-├── 深入源码
-├── 架构设计
-└── 性能优化
-```
 
 
 ## 📮 联系我
