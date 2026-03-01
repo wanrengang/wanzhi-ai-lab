@@ -6,7 +6,7 @@
 
 专注 AI 技术实战 | AI前沿动态与趋势  | 知识管理
 
-[📖 **公众号**](assets/images/logo.jpg) | [💻 **GitHub**](https://github.com/wanrengang/wanzhi-ai-lab) | [💬 **加群交流](#-联系我)
+[📖 **公众号**](assets/images/logo.jpg) | [💻 **GitHub**](https://github.com/wanrengang/wanzhi-ai-lab) | [💬 **加群交流](assets/images/logo.jpg)
 
 [![公众号](https://img.shields.io/badge/公众号-万智创界-red)](#-关注公众号)
 [![GitHub stars](https://img.shields.io/github/stars/wanrengang/wanzhi-ai-lab?style=social)](https://github.com/wanrengang/wanzhi-ai-lb/stargazers)
@@ -53,10 +53,10 @@
 在微信搜索「**万智创界**」
 
 #### 方式二：扫码关注
-![万智创界](assets/images/logo.jpg)
 
 <div align="center">
 
+![万智创界](assets/images/logo.jpg)
 <!-- <img src="assets/wechat-qr-code.png" width="200" alt="万智创界公众号二维码"> -->
 
 **👆 扫码关注「万智创界」**
@@ -88,28 +88,6 @@ Month 4+: 🔴 L3 专业深度
 └── 性能优化
 ```
 
-
-
----
-
-## 🤝 贡献指南
-
-欢迎贡献！你可以：
-
-### 🐛 报告问题
-在 [Issues](https://github.com/wanrengang/wanzhi-ai-lab/issues) 中提出 Bug 或建议
-
-### 💡 提出想法
-告诉我你想看什么项目或文章
-
-### 🔧 提交代码
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'feat: 添加某个功能'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
----
 
 ## 📮 联系我
 
